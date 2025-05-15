@@ -19,4 +19,4 @@ This Power BI project provides a comprehensive HR analytics dashboard developed 
 - **KPI Tiles** for total employees, attrition %, average working years, and satisfaction index
 
 ## 📸 Dashboard Preview
-Dashboard.png
+[Dashboard.png](https://github.com/sruthisubraveti/HR-Analytics/blob/main/Dashboard.png)
