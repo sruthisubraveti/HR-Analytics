@@ -30,4 +30,4 @@ Extensive data management was performed in Power Query to clean and structure th
 - **KPI Tiles** for total employees, attrition %, average working years, and satisfaction index
 
 ## Dashboard Preview
-[Dashboard.png](https://github.com/sruthisubraveti/HR-Analytics/blob/main/Dashboard.png)
+
