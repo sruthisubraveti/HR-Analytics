@@ -1,7 +1,9 @@
 # HR Analytics Dashboard
 
 This project demonstrates the complete process of building a professional and interactive HR Analytics Dashboard in Power BI, designed to provide the HR department with crucial insights into employee metrics, attrition, and job satisfaction.
-Project Overview:
+
+
+**Project Overview:**
 The dashboard is built on a dataset comprising nearly 1,500 employee records. The design utilizes a clean, customized gradient background and uniform formatting across all elements, achieving a high level of visual polish.
 
 **Core Features and Visualizations:**
