@@ -31,5 +31,4 @@ Extensive data management was performed in Power Query to clean and structure th
 - **Performance Metrics** such as years at company, performance rating, work-life balance
 - **KPI Tiles** for total employees, attrition %, average working years, and satisfaction index
 
-![image alt][https://github.com/sruthisubraveti/HR-Analytics/blob/45e2a64e2f63ac2d5a738976e5a0549efd768689/HR%20Analytics%20Dashboard.png]
-
+![image alt](https://github.com/sruthisubraveti/HR-Analytics/blob/45e2a64e2f63ac2d5a738976e5a0549efd768689/HR%20Analytics%20Dashboard.png)
